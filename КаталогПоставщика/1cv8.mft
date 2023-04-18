@@ -1,0 +1,10 @@
+﻿Vendor=МДА
+Name=УчетПосещаемости
+Version=1.0.0.0
+AppVersion=8.3
+[Config1]
+Catalog=Учет посещаемости
+Source=1Cv8.cf
+[Config2]
+Catalog=Учет посещаемости (демо)
+Source=1Cv8.dt
