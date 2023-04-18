@@ -1,7 +1,7 @@
 Последовательность действий установки
 
-Установка OneScript
+1. Установка OneScript
 
-Установка vanessa-runner "opm install vanessa-runner" (cmd)
+2. Установка vanessa-runner "opm install vanessa-runner" (cmd)
 
-Установка плагина ADD "opm install add" (cmd)
+3. Установка плагина ADD "opm install add" (cmd)
